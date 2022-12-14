@@ -1,0 +1,41 @@
+
+In this video we discuss how to use the root locus method to design a PID controller.  In addition to discussing the theory, we look at Matlab tools to enable this workflow.  In addition, we demonstrate the effectiveness of the resulting controller on a real system.  Finally, we discuss how this approach is generalizable to designing any linear controller.
+
+Please ensure you have watched the following videos before this lecture:
+-Introduction to Proportional, Integral, Derivative (PID) Control (TBD)
+-Practical Implementation Issues with a PID Controller (https://youtu.be/yr6om0e0oAQ)
+-Understanding and Sketching the Root Locus (https://youtu.be/gA-KOk3SAb0)
+-Using the Control System Designer in Matlab (https://youtu.be/RPzFLzKkQGs)
+-Designing a PID Controller Using the Ziegler-Nichols Method (https://youtu.be/n829SwSUZ_c)
+
+Topics and time stamps:
+0:00 – Introduction.
+3:27 – Designing a PI controller.
+12:34 – Proportional only controller on a real DC motor.
+15:04 – Using the Control System Designer to design a PI controller.
+28:51 – PI controller on a real DC motor.
+31:31 – Designing a PID controller.
+37:52 – Designing a P, I, Pseudo-D controller.
+49:50 – Using the Control System Designer to design a P, I, Pseudo-D controller.
+58:35 – P, I, Pseudo-D controller on a real DC motor.
+1:00:24 – Generalization to general linear controller design.
+
+Download the ExtractPIDGainsFromSecondOrderTransferFunction.m function at
+http://faculty.washington.edu/lum/Edu... 
+
+Additional videos in this series:
+-Using the Control System Designer in Matlab (https://youtu.be/RPzFLzKkQGs)
+-Understanding and Sketching the Root Locus (https://youtu.be/gA-KOk3SAb0)
+-The Routh-Hurwitz Stability Criterion (https://youtu.be/QWb9sq35cNk)
+- Modeling a DC Motor with Ordinary Differential Equations (TBD)
+-Introduction to Proportional, Integral, Derivative (PID) Control (TBD)
+-Practical Implementation Issues with a PID Controller (https://youtu.be/yr6om0e0oAQ)
+-Designing a PID Controller Using the Ziegler-Nichols Method (https://youtu.be/n829SwSUZ_c)
+-Designing a PID Controller Using the Root Locus Method (https://youtu.be/Hk6YBO_A_PU)
+
+Overview of engineering videos and curriculum located at http://faculty.washington.edu/lum/Edu...
+
+Errata: 
+40:58 – I should have written a real pole, not real zero
+
+You can support this channel via Patreon at https://www.patreon.com/christopherwlum.  Thank you for your help!
